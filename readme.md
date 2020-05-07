@@ -1,5 +1,5 @@
-<iframe width="1138" height="480" src="https://www.youtube.com/embed/QcHT89eXmRw?list=RDQcHT89eXmRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
+<iframe width="420" height="315" src="https://www.youtube.com/embed/GIP0j4oRMWc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+</iframe>
 # 大家好！我是楊傅傑，大學就讀資管，今年畢業。  
 * 高職開始接觸程式這塊領域，最早是使用VB6.0寫一些小程式  
 * 大一學習C#、Java  
